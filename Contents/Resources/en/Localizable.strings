@@ -1,0 +1,9 @@
+"video_error_dialog_title"="Video Playback Error";
+"video_error_dialog_message"="We encountered an error attempting to playback the requested video. Please try again and if the problem persists try again at a later date.";
+"dialog_ok_button"="Ok";
+"dialog_retry_button"="Retry Again";
+"dialog_cancel_button"="Cancel";
+"media_player_snippet"="Mediaplayer Sample";
+"now_playing"="Return to Video";
+"play_one"="Play one video";
+"play_two"="Play two videos";

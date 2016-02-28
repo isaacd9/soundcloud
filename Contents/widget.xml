@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <name>MediaPlayerSample</name>
+    <version>2.0.2</version>
+    <identifier>com.yahoo.widgets.tv.videosample</identifier>
+    <author name="" organization="Yahoo!" href="http://connectedtv.yahoo.com" />
+    <copyright>2010-2012 Yahoo!</copyright>
+    <description>Media player sample App</description>
+    <platform minVersion="5.0" />
+    <security>
+		<filesystem>full</filesystem>
+		<command>true</command>
+        <http>all</http>
+    </security>
+    <image usage="1920x1080.logo" src="Images/1920x1080/logo.png"/>
+    <image usage="960x540.logo" src="Images/960x540/logo.png"/>
+</metadata>
